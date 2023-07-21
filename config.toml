@@ -1,4 +1,5 @@
 baseURL = "https://OniRecords"
+canonifyurls = true
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Oni Records"
